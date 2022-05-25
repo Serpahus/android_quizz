@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="quest1">Как зовут вашего начальника</string>>
+    <string name="quest2">Срок хранения овощей</string>
+    <string name="quest3">Срок хранения теста</string>>
+    <string name="quest4">Можно носить украшения на производстве</string>
+    <string name="quest5">Срок хранения яиц</string>
+    <string name="quest6">Введите ФИО </string>
+    <string-array name="q1">
+        <item>Иван</item>
+        <item>Игорь</item>
+        <item>Сергей</item>
+        <item>Данил</item>
+    </string-array>
+    <string-array name="q2">
+        <item>55</item>
+        <item>65</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="q3">
+        <item>1</item>
+        <item>4</item>
+        <item>7</item>
+    </string-array>>
+    <string-array name="q4">
+        <item>Да</item>
+        <item>Нет</item>
+    </string-array>>
+    <string-array name="q5">
+        <item>25</item>
+        <item>3</item>
+    </string-array>>
+</resources>
